@@ -26,7 +26,7 @@ class LongAttackRange implements AttackRange
     }
 }
 
-class Legend
+class Champion
 {
 
     private $attackRange;
@@ -44,7 +44,7 @@ class Legend
     }
 }
 
-class Nidalee extends Legend
+class Nidalee extends Champion
 {
     private $mode;
 
