@@ -1,0 +1,17 @@
+{
+    "name": "dinolai/php-design-pattern-lol",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "dinos80152",
+            "email": "dinos80152@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Game\\": "Game/"
+        }
+    }
+}
