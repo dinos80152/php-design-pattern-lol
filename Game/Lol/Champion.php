@@ -1,7 +1,7 @@
 <?php
 namespace Game\Lol;
 
-class Champion
+abstract class Champion
 {
     private $name;
 
@@ -16,15 +16,11 @@ class Champion
     private $armor;
     private $mr;
 
-    public function __construct(Attack $attackRange) {
-        $this->attackRange = $attackRange;
-    }
+    abstract public function q($target);
 
-    public function performAttack() {
-        $this->attackRange->attack();
-    }
+    abstract public function w($target);
 
-    public function setAttackRange(Attack $attackRange) {
-        $this->attackRange = $attackRange;
-    }
+    abstract public function e($target);
+
+    abstract public function r($target);
 }
