@@ -57,10 +57,21 @@
     * Elder
   * Baron
   * Monsters
+    * Giant Frog
+    * Giant Bird
+    * Two Head Wolves
+    * Krug
+    * Sentinel
+    * Brambleback
 * Building
   * Towers
   * Inhibitor
-  * Base
+  * Nexus
+* Minion
+  * Melee
+  * Caster
+  * Slege
+  * Super
 
 ### Summoner
 
