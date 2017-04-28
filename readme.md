@@ -4,43 +4,41 @@
 
 ### Creational
 
-* Abstratct Factory
-  * Create Champions
-* Builder
-
-* Factor Method
-* Prototype
-* Singleton
+* [ ] Abstract Factory
+* [x] Builder
+* [x] Factor Method
+* [x] Prototype
+* [x] Singleton
 
 ### Structural
 
-* Adapter
-* Bridge
-* Composite
-* Decorator
-* Facade
-* Flyweight
-* Proxy
+* [x] Adapter
+* [ ] Bridge
+* [ ] Composite
+* [x] Decorator
+* [x] Facade
+* [ ] Flyweight
+* [ ] Proxy
 
 ### Behavioral
 
-* Chain of responsibility
-* Command
-* Interpreter
-* Iterator
-* Mediator
-* Memento
-* Observer
+* [ ] Chain of responsibility
+* [x] Command
+* [ ] Interpreter
+* [ ] Iterator
+* [ ] Mediator
+* [ ] Memento
+* [x] Observer
   * 1-N relationship.
   * Subject broadcast to observer.
   * Register observer form subject to observer.
   * Subject doesn't have to know observer initiatively.
   * Observer get data passively.
   * Observer might receive useless data for itself.
-* State
-* Strategy
-* Template Method
-* Visitor
+* [ ] State
+* [x] Strategy
+* [ ] Template Method
+* [ ] Visitor
 
 ## LoL
 
