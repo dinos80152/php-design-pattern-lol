@@ -25,7 +25,7 @@
   * Map
   * Enumeration
   * etc...
-* we could use Polymorphism on the item we got from different aggregation.
+* We can use Polymorphism because collections will implement the same interface.
 
 ## More
 
