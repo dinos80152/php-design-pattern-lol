@@ -25,7 +25,7 @@
 * [ ] Chain of responsibility
 * [x] Command
 * [ ] Interpreter
-* [ ] Iterator
+* [x] Iterator
 * [ ] Mediator
 * [ ] Memento
 * [x] Observer
