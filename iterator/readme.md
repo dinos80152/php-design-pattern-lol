@@ -17,6 +17,14 @@
 
 * We don't care what's the type of aggregation, only care how could we visit.
 * It used to call collection, aggregation.
+  * Array
+  * ArrayList
+  * HashTable
+  * Set
+  * Vector
+  * Map
+  * Enumeration
+  * etc...
 * we could use Polymorphism on the item we got from different aggregation.
 
 ## More
