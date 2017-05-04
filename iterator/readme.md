@@ -18,3 +18,7 @@
 * We don't care what's the type of aggregation, only care how could we visit.
 * It used to call collection, aggregation.
 * we could use Polymorphism on the item we got from different aggregation.
+
+## More
+
+* [Laravel Collections](https://github.com/tightenco/collect/blob/master/src/Illuminate/Support/Collection.php)
