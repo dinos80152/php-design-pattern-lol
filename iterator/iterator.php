@@ -61,7 +61,7 @@ class SummonersRiftShopMenu extends ShopMenu
     }
 }
 
-class item
+class Item
 {
     private $name;
     private $price;
