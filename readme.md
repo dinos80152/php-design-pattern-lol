@@ -78,3 +78,4 @@
 * [Design Patterns Video Tutorial@Derek Banas](https://www.youtube.com/playlist?list=PLF206E906175C7E07)
 * [Head First Design Patterns](http://shop.oreilly.com/product/9780596007126.do)
 * [PHP Design Patterns Reference and Examples@fluffycat](http://www.fluffycat.com/PHP-Design-Patterns/)
+* [Object Oriented Design](http://www.oodesign.com/flyweight-pattern.html)
