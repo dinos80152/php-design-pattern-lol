@@ -72,6 +72,6 @@ $nidalee->transform();
 $nidalee->setAttackRange(new ShortAttackRange);
 $nidalee->performAttackRange();
 
-// Got Teemo Q
+// Got disarm state, ex: Amumu ult.
 $nidalee->setAttackRange(new NonAttackRange);
 $nidalee->performAttackRange();
