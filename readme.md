@@ -22,7 +22,7 @@
 
 ### Behavioral
 
-* [ ] Chain of responsibility
+* [x] Chain of responsibility
 * [x] Command
 * [ ] Interpreter
 * [x] Iterator
