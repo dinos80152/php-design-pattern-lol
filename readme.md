@@ -79,3 +79,5 @@
 * [Head First Design Patterns](http://shop.oreilly.com/product/9780596007126.do)
 * [PHP Design Patterns Reference and Examples@fluffycat](http://www.fluffycat.com/PHP-Design-Patterns/)
 * [Object Oriented Design](http://www.oodesign.com/flyweight-pattern.html)
+* [Design Patterns@wikipedia](https://en.wikipedia.org/wiki/Design_Patterns)
+* [Design Patterns@Source Making](https://sourcemaking.com/design_patterns)
