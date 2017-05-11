@@ -26,7 +26,7 @@
 * [x] Command
 * [ ] Interpreter
 * [x] Iterator
-* [ ] Mediator
+* [x] Mediator
 * [ ] Memento
 * [x] Observer
 * [x] State
