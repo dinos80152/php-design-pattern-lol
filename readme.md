@@ -32,7 +32,7 @@
 * [x] State
 * [x] Strategy
 * [x] Template Method
-* [ ] Visitor
+* [x] Visitor
 
 ## LoL
 
@@ -81,3 +81,6 @@
 * [Object Oriented Design](http://www.oodesign.com/flyweight-pattern.html)
 * [Design Patterns@wikipedia](https://en.wikipedia.org/wiki/Design_Patterns)
 * [Design Patterns@Source Making](https://sourcemaking.com/design_patterns)
+* [DESIGN PATTERNS UNCOVERED@Dzone](https://dzone.com/articles/design-patterns-uncovered)
+* [Design Patterns@DZone Refcardz](https://dzone.com/refcardz/design-patterns)
+* [DesignPatternsPHP](http://designpatternsphp.readthedocs.io/en/latest/README.html)
