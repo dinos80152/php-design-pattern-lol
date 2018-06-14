@@ -6,7 +6,7 @@
 
 * [ ] Abstract Factory
 * [x] Builder
-* [x] Factor Method
+* [x] Factory Method
 * [x] Prototype
 * [x] Singleton
 
