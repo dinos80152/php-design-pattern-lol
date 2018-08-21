@@ -84,3 +84,4 @@
 * [DESIGN PATTERNS UNCOVERED@Dzone](https://dzone.com/articles/design-patterns-uncovered)
 * [Design Patterns@DZone Refcardz](https://dzone.com/refcardz/design-patterns)
 * [DesignPatternsPHP](http://designpatternsphp.readthedocs.io/en/latest/README.html)
+* [Design Patterns for Humans](https://github.com/kamranahmedse/design-patterns-for-humans)
